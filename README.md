@@ -1,4 +1,4 @@
-# Web SCraping de publicaciones de tus amigos (texto y reacciones) en Facebook
+# Web Scraping de publicaciones de tus amigos (texto y reacciones) en Facebook
 Código programado con Selenium y Chromedriver para srealizar Web Scraping de publicaciones (texto y reacciones) de amigos en Facebook. Los requisitos son que tu perfil de Facebook
 se encuentre en "Español", tener Selenium y Chromedriver instalado, o usar Google Colab (ejemplos adjuntos)
 
